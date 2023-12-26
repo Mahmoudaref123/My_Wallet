@@ -12,9 +12,13 @@ Struggling to connect financial concepts to real-world scenarios.
 # Say hello to:
 
 Effortless account management: Track personal and research finances with ease.
+
 Seamless transactions: Deposit, withdraw, and transfer funds with a few clicks.
+
 Real-time insights: Monitor balances.
+
 This app is more than just a financial tool; it's an educational catalyst.
+
 Built with security and customization in mind, this app adapts to professors' needs and ensures data privacy. Whether managing research grants, tracking personal finances, or integrating finance into the curriculum, this app puts the power in the hands of educators.
 
 Ready to revolutionize the way finance is taught and understood? Join us in developing this game-changing app and unleash the potential of financial education!

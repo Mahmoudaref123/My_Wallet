@@ -1,7 +1,7 @@
 # My_Wallet
 Imagine a future where professors streamline financial tasks, unlock powerful research capabilities, and seamlessly integrate finance into their curriculum. This groundbreaking desktop app makes that vision a reality.
 
-Say goodbye to:
+# Say goodbye to:
 
 Drowning in paperwork and spreadsheets.
 Spending hours on tedious financial management.

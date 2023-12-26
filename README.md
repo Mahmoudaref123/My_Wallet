@@ -3,9 +3,11 @@ Imagine a future where professors streamline financial tasks, unlock powerful re
 
 # Say goodbye to:
 
-Drowning in paperwork and spreadsheets.\n
-Spending hours on tedious financial management.\n
-Struggling to connect financial concepts to real-world scenarios.\n
+Drowning in paperwork and spreadsheets.
+
+Spending hours on tedious financial management.
+
+Struggling to connect financial concepts to real-world scenarios.
 
 # Say hello to:
 

@@ -3,10 +3,11 @@ Imagine a future where professors streamline financial tasks, unlock powerful re
 
 # Say goodbye to:
 
-Drowning in paperwork and spreadsheets.
-Spending hours on tedious financial management.
-Struggling to connect financial concepts to real-world scenarios.
-Say hello to:
+Drowning in paperwork and spreadsheets.\n
+Spending hours on tedious financial management.\n
+Struggling to connect financial concepts to real-world scenarios.\n
+
+# Say hello to:
 
 Effortless account management: Track personal and research finances with ease.
 Seamless transactions: Deposit, withdraw, and transfer funds with a few clicks.
